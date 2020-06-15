@@ -39,13 +39,13 @@ last few years. Maybe it can help you too.
 ### Install from brew:
 
 ```
-> brew install michaeldfallen/formula/git-radar
+> brew install mcphailtom/homebrew-formulas/git-radar
 ```
 
 ### Manually:
 
 ```
-> cd ~ && git clone https://github.com/michaeldfallen/git-radar .git-radar
+> cd ~ && git clone https://github.com/mcphailtom/git-radar .git-radar
 > echo 'export PATH=$PATH:$HOME/.git-radar' >> ~/.bashrc
 ```
 
